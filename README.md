@@ -7,7 +7,7 @@
 - Job type:				Development 
 - Job categogy:		Desktop Application, Data Extraction
 - Language:				Python
-- Style:          Functional 
+- Style:          Functional & Object Oriented
 
 
 ## Project description
