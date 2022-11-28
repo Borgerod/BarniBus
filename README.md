@@ -1,4 +1,4 @@
-# Barnibus--Social_Media_Data_Extraction
+# Barnibus - Social media data extraction software
 [Previous Upwork Job] as developer, where I built a user friendly data extraction application for a small business, in two weeks.
 
 
